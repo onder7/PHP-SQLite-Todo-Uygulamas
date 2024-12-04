@@ -1,6 +1,7 @@
 # PHP SQLite Todo Uygulaması
 
 Basit, özelleştirilebilir bir PHP SQLite todo list uygulaması.
+![image](https://github.com/user-attachments/assets/e0aef77f-a58c-4d3a-8525-26ec268e1d2c)
 
 ## Özellikler
 
