@@ -1,0 +1,6 @@
+/vendor/
+.env
+todo.db
+/backups/
+.DS_Store
+*.log
